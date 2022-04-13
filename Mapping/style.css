@@ -1,0 +1,32 @@
+/* style.css */
+
+html,
+body {
+    height: 100%;
+    display: table;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+}
+
+.center {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.buttons {
+    display: inline-flexbox;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 580px;
+    padding-left: 280px;
+    position: absolute;
+}
